@@ -1,130 +1,232 @@
 {
   "basics": {
     "name": "Patompong Manprasatkul",
-    "label": "Programmer",
+    "label": "Mobile Application Developer",
     "picture": "avatar.jpg",
     "email": "neung.manprasatkul@gmail.com",
-    "phone": "(912) 555-4321",
-    "website": "http://richardhendricks.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "phone": "(+66)9 7345-6165",
+    "website": "",
+    "summary": "Android and iOS application developer",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "99/11 La Maison Condo, Pradipat 25, Samsen-Nai",
+      "postalCode": "10400",
+      "city": "Payathai",
+      "countryCode": "TH",
+      "region": "Bangkok"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        "network": "LinkedIn",
+        "username": "Patompong Manprasatkul",
+        "url": "https://linkedin.com/in/manprasatkul1"
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
+        "network": "Github",
+        "username": "neungnarakjung",
+        "url": "https://github.com/neungnarakjung"
+      },
+      {
+        "network": "Facebook",
+        "username": "neung.manprasatkul",
+        "url": "https://fb.com/neung.manprasatkul"
+      },
+      {
+        "network": "Twitter",
+        "username": "PM_Pat1",
+        "url": "https://twitter.com/PM_Pat1"
+      },
+      {
+        "network": "Skype",
+        "username": "neung.manprasatkul@outlook.com",
+        "url": "mailto:neung.manprasatkul@outlook.com"
       }
     ]
   },
   "work": [
     {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "http://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "company": "Sendit Thailand CO., LTD.",
+      "position": "Mobile Application Developer",
+      "website": "http://sendit.asia",
+      "startDate": "2016-01-01",
+      "summary": "Sendit is an on-demand, reliable messenger for companies",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Working on Android, iOS and also Web Backend, Web Frontend"
+      ]
+    },
+    {
+      "company": "ESRI (Thailand) Co., LTD. (CDG Group)",
+      "position": "Software Developer",
+      "website": "http://www.esrith.com",
+      "startDate": "2014-12-01",
+      "endDate": "2015-12-31",
+      "summary": "ESRI (Thailand) Co., Ltd. provides world-class enterprise Geographic Information Systems (GIS). By using the power of geography our solutions support businesses, governments, militaries, and educational institutions.",
+      "highlights": [
+        "Working on Android, iOS, desktop, Web Backend, Web Frontend and Database",
+        "GIS software development",
+        "PEA Mobile app"
+      ]
+    },
+    {
+      "company": "Progistech Co., LTD.",
+      "position": "Software Developer, Technical support",
+      "website": "http://sahachaihatyai.co.th",
+      "startDate": "2014-04-01",
+      "endDate": "2014-11-30",
+      "summary": "Progistech is technology company of Sahachai Group, to serve application for NewNC(Fleet monitoring, Rount planing optimization)",
+      "highlights": [
+        "Working on Android, desktop, Web Backend, Web Frontend and Database"
+      ]
+    },
+    {
+      "company": "PTT ICT CO., LTD.",
+      "position": "Engineer Internship",
+      "website": "http://www.pttict.com/",
+      "startDate": "2013-03-15",
+      "endDate": "2013-06-30",
+      "summary": "PTT ICT deliver an excellence IT services and create new innovative IT solutions with efficiency to our customers in the most professional manner.",
+      "highlights": []
+    },
+    {
+      "company": "NECTEC",
+      "position": "Engineer Internship",
+      "website": "www.nectec.or.th",
+      "startDate": "2012-03-15",
+      "endDate": "2012-06-30",
+      "summary": "Photonics Technology Laboratory (PTL) ",
+      "highlights": [
+        "Working on Android, arduino and MEMS"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": [
-        "Awarded 'Teacher of the Month'"
-      ]
+      "organization": "CoE for Social",
+      "position": "Member",
+      "website": "https://youtu.be/H7ORe3ldtNg",
+      "startDate": "2014-03-15",
+      "endDate": "2014-03-18",
+      "summary": "At Ban Kalai school, Phang-nga, TH",
+      "highlights": []
+    },
+    {
+      "organization": "Computer Engineering, PSU",
+      "position": "Teacher assistance",
+      "website": "",
+      "startDate": "2011-06-01",
+      "endDate": "2012-03-01",
+      "summary": "Introduction to computer programming courses for junior(1st yr).",
+      "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
+      "institution": "Prince of Songkla University",
+      "area": "Computer Engineering",
       "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
-      ]
+      "startDate": "2010-06-01",
+      "endDate": "2013-03-01",
+      "gpa": "3.26",
+      "courses": []
     }
   ],
   "awards": [
     {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
+      "title": "Passed the Fundamental Information Technology Engineer Examination (FE)",
+      "date": "2014-04-30",
+      "awarder": "NECTEC",
+      "summary": "Information Technology Professionals Examination: ITPE"
+    },
     {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "title": "Winner of ACM-ICPC Thailand Southern Programming Contest 2012",
+      "date": "2012-09-01",
+      "awarder": "PSU, Songkla",
+      "summary": "ACM-ICPC Thailand Southern Programming Contest 2012"
+    },
+    {
+      "title": "Contestant of Thailand National Software Contest",
+      "date": "2012-11-01",
+      "awarder": "NECTEC",
+      "summary": "NSC2012, Subject program for blind (Android apps)"
+    },
+    {
+      "title": "Contestant of ACM-ICPC Asia Phuket Regional Programming Contest 2011",
+      "date": "2011-10-01",
+      "awarder": "PSU, Phuket",
+      "summary": "ACM-ICPC Asia Phuket Regional Programming Contest 2011"
+    },
+    {
+      "title": "Honorable mention of Thailand National Software Contest",
+      "date": "2011-11-01",
+      "awarder": "NECTEC",
+      "summary": " NSC2011, Subject mobile application (Android apps)"
+    },
+    {
+      "title": "Winner of ACM-ICPC Thailand Southern Programming Contest 2010",
+      "date": "2010-09-01",
+      "awarder": "PSU, Songkla",
+      "summary": "ACM-ICPC Thailand Southern Programming Contest 2010"
+    },
+    {
+      "title": "PSU Younge Star Scholarship",
+      "date": "2010-06-01",
+      "awarder": "Computer Engineering, PSU",
+      "summary": "Scholarship for study in Computer Engineering program (no tuition fee + pocket money)"
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "Android Application Development",
       "level": "Master",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+        "Java",
+        "Kotlin"
       ]
     },
     {
-      "name": "Compression",
+      "name": "iOS Application Development",
       "level": "Master",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "Objective-C",
+        "Swift"
+      ]
+    },
+    {
+      "name": "Web Development Frontend",
+      "level": "Intermediate",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "React"
+      ]
+    },
+    {
+      "name": "Web Development Backend",
+      "level": "Beginner",
+      "keywords": [
+        "NodeJS"
       ]
     }
   ],
   "languages": [
     {
-      "language": "English",
+      "language": "Thai",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Movie/TV series",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "sci-fi",
+        "action",
+        "romance",
+        "drama"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
     }
   ]
 }
