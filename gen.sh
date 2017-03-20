@@ -8,5 +8,6 @@
 
 resume export gen.html --theme slick
 sed -i '' 's/>pat@/>pat[at]/' gen.html
+sed -i '' 's#http://#https://#g' gen.html
 html-minifier --case-sensitive --html5 --remove-comments --remove-tag-whitespace --minify-css --collapse-whitespace --sort-attributes --sort-class-name gen.html -o index.html
 rm gen.html
