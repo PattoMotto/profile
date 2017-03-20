@@ -3,10 +3,10 @@
     "name": "Patompong Manprasatkul",
     "label": "Mobile Application Developer",
     "picture": "avatar.jpg",
-    "email": "pat[at]manprasatkul.me",
+    "email": "pat@manprasatkul.me",
     "phone": "",
     "website": "",
-    "summary": "Android and iOS application developer",
+    "summary": "Mobile Application Developer",
     "location": {
       "address": "Pradipat Rd, Samsen-Nai",
       "postalCode": "10400",
@@ -44,10 +44,21 @@
   },
   "work": [
     {
+      "company": "Agoda",
+      "position": "Android Developer",
+      "website": "https://agoda.com",
+      "startDate": "2017-01-01",
+      "summary": "Agoda.com is a travel fare aggregator website and travel metasearch engine. The website is owned by a subsidiary of The Priceline Group. The website available in 40 languages.",
+      "highlights": [
+        "Working on Android and iOS"
+      ]
+    },
+    {
       "company": "Sendit Thailand CO., LTD.",
       "position": "Mobile Application Developer",
-      "website": "http://sendit.asia",
+      "website": "https://sendit.asia",
       "startDate": "2016-01-01",
+      "endDate": "2016-12-31",
       "summary": "Sendit is an on-demand, reliable messenger for companies",
       "highlights": [
         "Working on Android, iOS and also Web Backend, Web Frontend"
