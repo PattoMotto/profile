@@ -21,24 +21,29 @@
         "url": "https://linkedin.com/in/manprasatkul1"
       },
       {
-        "network": "Github",
-        "username": "PattoMotto",
-        "url": "https://github.com/PattoMotto"
-      },
-      {
-        "network": "Instagram",
-        "username": "PattoMotto",
-        "url": "https://instagram.com/PattoMotto"
-      },
-      {
         "network": "Twitter",
         "username": "PattoMotto",
         "url": "https://twitter.com/PattoMotto"
       },
       {
+        "network": "Github",
+        "username": "PattoMotto",
+        "url": "https://github.com/PattoMotto"
+      },
+      {
+        "network": "Telegram",
+        "username": "PattoMotto",
+        "url": "https://t.me/PattoMotto"
+      },
+      {
         "network": "Skype",
-        "username": "neung.manprasatkul@outlook.com",
+        "username": "neung.manprasatkul",
         "url": "mailto:neung.manprasatkul@outlook.com"
+      },
+      {
+        "network": "Instagram",
+        "username": "PattoMotto",
+        "url": "https://instagram.com/PattoMotto"
       }
     ]
   },
