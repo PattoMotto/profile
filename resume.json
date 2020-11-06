@@ -1,34 +1,35 @@
 {
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Patompong Manprasatkul",
-    "label": "Mobile Application Developer",
-    "picture": "avatar.jpg",
-    "email": "neung.manprasatkul@gmail.com",
+    "label": "Senior iOS Engineer",
+    "image": "avatar.jpg",
+    "email": "pat@manprasatkul.com",
     "phone": "",
-    "website": "",
-    "summary": "Mobile Application Developer",
+    "url": "",
+    "summary": "An iOS engineer who interested in self driving electric vehicle",
     "location": {
-      "address": "Sukhumvit 64/1, Bang Chak",
-      "postalCode": "10260",
-      "city": "Phra Khanong",
-      "countryCode": "TH",
-      "region": "Bangkok"
+      "address": "",
+      "postalCode": "",
+      "city": "Dubai Marina",
+      "countryCode": "AE",
+      "region": "Dubai"
     },
     "profiles": [
       {
         "network": "LinkedIn",
         "username": "Patompong Manprasatkul",
-        "url": "https://linkedin.com/in/manprasatkul1"
-      },
-      {
-        "network": "Twitter",
-        "username": "PattoMotto",
-        "url": "https://twitter.com/PattoMotto"
+        "url": "https://linkedin.com/in/PattoMotto"
       },
       {
         "network": "Github",
         "username": "PattoMotto",
         "url": "https://github.com/PattoMotto"
+      },
+      {
+        "network": "Twitter",
+        "username": "PattoMotto",
+        "url": "https://twitter.com/PattoMotto"
       },
       {
         "network": "Telegram",
@@ -39,29 +40,51 @@
         "network": "Skype",
         "username": "neung.manprasatkul",
         "url": "mailto:neung.manprasatkul@outlook.com"
-      },
-      {
-        "network": "Instagram",
-        "username": "PattoMotto",
-        "url": "https://instagram.com/PattoMotto"
       }
     ]
   },
   "work": [
     {
-      "company": "Agoda",
+      "name": "Careem",
+      "location": "Dubai Media City, Dubai, UAE",
+      "description": "",
+      "position": "Senior iOS Engineer",
+      "url": "https://www.careem.com",
+      "startDate": "2019-01-01",
+      "summary": "Careem is the internet platform for the greater Middle East region. A pioneer of the region's ride-hailing economy, Careem is expanding services across its platform to include mass transportation, delivery and payments to become the region's everyday SuperApp. Careem's mission is to simplify and improve the lives of people and build a lasting organisation that inspires. Careem was established in July 2012, and was acquired by Uber in 2020. Careem operates in over 100 cities across 14 countries and has created more than one million employment opportunities in the region.",
+      "highlights": [
+        "Working iOS food delivery app since the beginning of CareemNOW aka Careem's food delivery service"
+      ]
+    },
+    {
+      "name": "If You Can",
+      "location": "Bangkok, THAILAND",
+      "position": "Lead iOS developer",
+      "url": "https://www.ifyoucan.com",
+      "startDate": "2018-10-01",
+      "endDate": "2018-12-31",
+      "summary": "We're a small company with big values and capabilities, where bold thinking, inspired people and a passion for results come together for extraordinary impact.",
+      "highlights": [
+        "Build an iOS app for client from ground up"
+      ]
+    },
+    {
+      "name": "Agoda",
+      "location": "Bangkok, THAILAND",
       "position": "iOS Developer",
-      "website": "https://agoda.com",
+      "url": "https://agoda.com",
       "startDate": "2017-01-01",
+      "endDate": "2018-09-30",
       "summary": "Agoda.com is a travel fare aggregator website and travel metasearch engine. The website is owned by a subsidiary of The Priceline Group. The website available in 40 languages.",
       "highlights": [
         "Working on Android and iOS (In first 2 month was Android Developer)"
       ]
     },
     {
-      "company": "Sendit Thailand CO., LTD.",
+      "name": "Sendit Thailand",
+      "location": "Bangkok, THAILAND",
       "position": "Mobile Application Developer",
-      "website": "https://sendit.asia",
+      "url": "https://sendit.asia",
       "startDate": "2016-01-01",
       "endDate": "2016-12-31",
       "summary": "Sendit is an on-demand, reliable messenger for companies",
@@ -70,9 +93,10 @@
       ]
     },
     {
-      "company": "ESRI (Thailand) Co., LTD. (CDG Group)",
+      "name": "ESRI (Thailand)",
+      "location": "Bangkok, THAILAND",
       "position": "Software Developer",
-      "website": "http://www.esrith.com",
+      "url": "http://www.esrith.com",
       "startDate": "2014-12-01",
       "endDate": "2015-12-31",
       "summary": "ESRI (Thailand) Co., Ltd. provides world-class enterprise Geographic Information Systems (GIS). By using the power of geography our solutions support businesses, governments, militaries, and educational institutions.",
@@ -83,9 +107,10 @@
       ]
     },
     {
-      "company": "Progistech Co., LTD.",
+      "name": "Progistech",
+      "location": "Hatyai, THAILAND",
       "position": "Software Developer, Technical support",
-      "website": "http://sahachaihatyai.co.th",
+      "url": "http://sahachaihatyai.co.th",
       "startDate": "2014-04-01",
       "endDate": "2014-11-30",
       "summary": "Progistech is technology company of Sahachai Group, to serve application for NewNC(Fleet monitoring, Route planing optimization)",
@@ -94,18 +119,20 @@
       ]
     },
     {
-      "company": "PTT ICT CO., LTD.",
+      "name": "PTT ICT",
+      "location": "Bangkok, THAILAND",
       "position": "Engineer Internship",
-      "website": "http://www.pttict.com/",
+      "url": "http://www.pttict.com/",
       "startDate": "2013-03-15",
       "endDate": "2013-06-30",
       "summary": "PTT ICT deliver an excellence IT services and create new innovative IT solutions with efficiency to our customers in the most professional manner.",
       "highlights": []
     },
     {
-      "company": "NECTEC",
+      "name": "NECTEC",
+      "location": "Bangkok, THAILAND",
       "position": "Engineer Internship",
-      "website": "http://www.nectec.or.th",
+      "url": "http://www.nectec.or.th",
       "startDate": "2012-03-15",
       "endDate": "2012-06-30",
       "summary": "Photonics Technology Laboratory (PTL) ",
@@ -118,7 +145,7 @@
     {
       "organization": "CoE for Social",
       "position": "Member",
-      "website": "https://youtu.be/H7ORe3ldtNg",
+      "url": "https://youtu.be/H7ORe3ldtNg",
       "startDate": "2014-03-15",
       "endDate": "2014-03-18",
       "summary": "At Ban Kalai school, Phang-nga, TH",
@@ -127,7 +154,7 @@
     {
       "organization": "Computer Engineering, PSU",
       "position": "Teacher assistance",
-      "website": "",
+      "url": "",
       "startDate": "2011-06-01",
       "endDate": "2012-03-01",
       "summary": "Introduction to computer programming courses for junior(1st yr).",
@@ -137,11 +164,12 @@
   "education": [
     {
       "institution": "Prince of Songkla University",
+      "url": "https://www.psu.ac.th",
       "area": "Computer Engineering",
       "studyType": "Bachelor",
       "startDate": "2010-06-01",
       "endDate": "2013-03-01",
-      "gpa": "3.26",
+      "gpa": "",
       "courses": []
     }
   ],
@@ -189,21 +217,22 @@
       "summary": "Scholarship for study in Computer Engineering program (no tuition fee + pocket money)"
     }
   ],
+  "publications": [],
   "skills": [
-    {
-      "name": "Android Application Development",
-      "level": "Master",
-      "keywords": [
-        "Java",
-        "Kotlin"
-      ]
-    },
     {
       "name": "iOS Application Development",
       "level": "Master",
       "keywords": [
         "Objective-C",
         "Swift"
+      ]
+    },
+    {
+      "name": "Android Application Development",
+      "level": "Intermediate",
+      "keywords": [
+        "Java",
+        "Kotlin"
       ]
     },
     {
@@ -243,6 +272,29 @@
         "romance",
         "drama"
       ]
+    },
+    {
+      "name": "PS4 video games",
+      "keywords": [
+        "Overwatch",
+        "Monster Hunter World",
+        "God of War"
+      ]
+    },
+    {
+      "name": "Home cooking",
+      "keywords": [
+        "Ketogenic diet",
+        "Thai food",
+        "Desserts"
+      ]
     }
-  ]
+  ],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
 }
