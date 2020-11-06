@@ -47,61 +47,56 @@
     {
       "name": "Careem",
       "location": "Dubai Media City, Dubai, UAE",
-      "description": "",
+      "description": "Careem is the internet platform for the greater Middle East region. A pioneer of the region's ride-hailing economy, Careem is expanding services across its platform to include mass transportation, delivery and payments to become the region's everyday SuperApp. Careem's mission is to simplify and improve the lives of people and build a lasting organisation that inspires. Careem was established in July 2012, and was acquired by Uber in 2020. Careem operates in over 100 cities across 14 countries and has created more than one million employment opportunities in the region.",
       "position": "Senior iOS Engineer",
       "url": "https://www.careem.com",
       "startDate": "2019-01-01",
-      "summary": "Careem is the internet platform for the greater Middle East region. A pioneer of the region's ride-hailing economy, Careem is expanding services across its platform to include mass transportation, delivery and payments to become the region's everyday SuperApp. Careem's mission is to simplify and improve the lives of people and build a lasting organisation that inspires. Careem was established in July 2012, and was acquired by Uber in 2020. Careem operates in over 100 cities across 14 countries and has created more than one million employment opportunities in the region.",
-      "highlights": [
-        "Working iOS food delivery app since the beginning of CareemNOW aka Careem's food delivery service"
-      ]
+      "summary": "Working iOS food delivery app since the beginning of CareemNOW aka Careem's food delivery service",
+      "highlights": []
     },
     {
       "name": "If You Can",
       "location": "Bangkok, THAILAND",
+      "description": "We're a small company with big values and capabilities, where bold thinking, inspired people and a passion for results come together for extraordinary impact.",
       "position": "Lead iOS developer",
       "url": "https://www.ifyoucan.com",
       "startDate": "2018-10-01",
       "endDate": "2018-12-31",
-      "summary": "We're a small company with big values and capabilities, where bold thinking, inspired people and a passion for results come together for extraordinary impact.",
-      "highlights": [
-        "Build an iOS app for client from ground up"
-      ]
+      "summary": "Build an iOS app for client from ground up",
+      "highlights": []
     },
     {
       "name": "Agoda",
       "location": "Bangkok, THAILAND",
+      "description": "Agoda.com is a travel fare aggregator website and travel metasearch engine. The website is owned by a subsidiary of The Priceline Group. The website available in 40 languages.",
       "position": "iOS Developer",
       "url": "https://agoda.com",
       "startDate": "2017-01-01",
       "endDate": "2018-09-30",
-      "summary": "Agoda.com is a travel fare aggregator website and travel metasearch engine. The website is owned by a subsidiary of The Priceline Group. The website available in 40 languages.",
-      "highlights": [
-        "Working on Android and iOS (In first 2 month was Android Developer)"
-      ]
+      "summary": "Working on Android and iOS (In first 2 month was Android Developer)",
+      "highlights": []
     },
     {
       "name": "Sendit Thailand",
       "location": "Bangkok, THAILAND",
+      "description": "Working on Android, iOS and also Web Backend, Web Frontend",
       "position": "Mobile Application Developer",
       "url": "https://sendit.asia",
       "startDate": "2016-01-01",
       "endDate": "2016-12-31",
-      "summary": "Sendit is an on-demand, reliable messenger for companies",
-      "highlights": [
-        "Working on Android, iOS and also Web Backend, Web Frontend"
-      ]
+      "summary": "Working on Android, iOS and also Web Backend, Web Frontend",
+      "highlights": []
     },
     {
       "name": "ESRI (Thailand)",
       "location": "Bangkok, THAILAND",
+      "description": "ESRI (Thailand) Co., Ltd. provides world-class enterprise Geographic Information Systems (GIS). By using the power of geography our solutions support businesses, governments, militaries, and educational institutions.",
       "position": "Software Developer",
       "url": "http://www.esrith.com",
       "startDate": "2014-12-01",
       "endDate": "2015-12-31",
-      "summary": "ESRI (Thailand) Co., Ltd. provides world-class enterprise Geographic Information Systems (GIS). By using the power of geography our solutions support businesses, governments, militaries, and educational institutions.",
+      "summary": "Working on Android, iOS, desktop, Web Backend, Web Frontend and Database",
       "highlights": [
-        "Working on Android, iOS, desktop, Web Backend, Web Frontend and Database",
         "GIS software development",
         "PEA Mobile app"
       ]
@@ -109,36 +104,35 @@
     {
       "name": "Progistech",
       "location": "Hatyai, THAILAND",
+      "description": "Progistech is technology company of Sahachai Group, to serve application for NewNC(Fleet monitoring, Route planing optimization)",
       "position": "Software Developer, Technical support",
       "url": "http://sahachaihatyai.co.th",
       "startDate": "2014-04-01",
       "endDate": "2014-11-30",
-      "summary": "Progistech is technology company of Sahachai Group, to serve application for NewNC(Fleet monitoring, Route planing optimization)",
-      "highlights": [
-        "Working on Android, desktop, Web Backend, Web Frontend and Database"
-      ]
+      "summary": "Working on Android, desktop, Web Backend, Web Frontend and Database",
+      "highlights": []
     },
     {
       "name": "PTT ICT",
       "location": "Bangkok, THAILAND",
+      "description": "PTT ICT deliver an excellence IT services and create new innovative IT solutions with efficiency to our customers in the most professional manner.",
       "position": "Engineer Internship",
       "url": "http://www.pttict.com/",
       "startDate": "2013-03-15",
       "endDate": "2013-06-30",
-      "summary": "PTT ICT deliver an excellence IT services and create new innovative IT solutions with efficiency to our customers in the most professional manner.",
+      "summary": "",
       "highlights": []
     },
     {
       "name": "NECTEC",
       "location": "Bangkok, THAILAND",
+      "description": "Photonics Technology Laboratory (PTL)",
       "position": "Engineer Internship",
       "url": "http://www.nectec.or.th",
       "startDate": "2012-03-15",
       "endDate": "2012-06-30",
-      "summary": "Photonics Technology Laboratory (PTL) ",
-      "highlights": [
-        "Working on Android, arduino and MEMS"
-      ]
+      "summary": "Working on Android, arduino and MEMS",
+      "highlights": []
     }
   ],
   "volunteer": [
