@@ -5,6 +5,7 @@
 ### prerequisite ###
 
 # THEME https://jsonresume.org/themes/
+# Profile page theme https://github.com/XuluWarrior/jsonresume-theme-kards
 # https://favicon.io/favicon-generator/
 
 resume export gen.html --theme kendall
